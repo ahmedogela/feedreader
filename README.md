@@ -6,10 +6,10 @@ In this project you are given a web-based application that reads RSS feeds. The 
 ## Table of content
 ---
 
-* [Why this Project?](#why_this_Project)
+* [Why this Project?](#why_this_project)
 * [What will I learn?](#what_will_i_learn)
 * [How will this help my career?](#how_will_this_help_my_career)
-* [How to run this project?](#how_to_run_this_project?)
+* [How to run this project?](#how_to_run_this_project)
 * [How will I complete this project?](#how_will_i_complete_this_project)
 
 
